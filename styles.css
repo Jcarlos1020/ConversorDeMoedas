@@ -106,7 +106,7 @@ section {
 
 }
 
-.valor {
+.valor, .valor-converter {
     color: #555555;
     font-Weight: 700px;
     font-Size: 20px;
